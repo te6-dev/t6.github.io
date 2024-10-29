@@ -1,0 +1,15 @@
+main {
+  background: rgb(255, 255, 255);
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 28%,
+    rgba(9, 198, 199, 1) 100%
+  );
+}
+
+.sol {
+  background-image: url("./gggyrate.svg");
+  background-size: cover; /* Ajusta según necesites: cover, contain, o un valor específico */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat;
+}
